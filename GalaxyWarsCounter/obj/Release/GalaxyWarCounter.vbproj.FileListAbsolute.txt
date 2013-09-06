@@ -1,0 +1,14 @@
+C:\DEV\GWC\GalaxyWarsCounter\bin\Release\GalaxyWarCounter.exe
+C:\DEV\GWC\GalaxyWarsCounter\bin\Release\GalaxyWarCounter.pdb
+C:\DEV\GWC\GalaxyWarsCounter\bin\Release\GalaxyWarCounter.xml
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\ResolveAssemblyReference.cache
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\Osashimi.FontDetail.resources
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\Osashimi.Form1.resources
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\Osashimi.Jimaku.resources
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\Osashimi.MainForm.resources
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\Osashimi.Resources.resources
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\ResGen.read.1.tlog
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\ResGen.write.1.tlog
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\GalaxyWarCounter.exe
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\GalaxyWarCounter.xml
+C:\DEV\GWC\GalaxyWarsCounter\obj\Release\GalaxyWarCounter.pdb

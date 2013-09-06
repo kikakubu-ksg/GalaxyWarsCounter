@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MDXSample">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\MDXSample.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\MDXSample.suo">
+</Property><Property Name="Date" Value="2011年11月27日">
+</Property><Property Name="Time" Value="23:09">
+</Property><Property Name="ログ番号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MDXSample.sln" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\MDXSample.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="MDXSample.suo" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\MDXSample.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="GalaxyWarCounter.vbproj" Description="プロジェクト ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\GalaxyWarCounter.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="GalaxyWarCounter.vbproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\GalaxyWarCounter.vbproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="FontDetail.designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\FontDetail.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="FontDetail.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\FontDetail.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Form1.designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Form1.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Jimaku.designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Jimaku.designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Jimaku.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Jimaku.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="MainSample.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\MainSample.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="MainForm.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\MainForm.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="MainForm.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\MainForm.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="My Project\AssemblyInfo.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="My Project\Application.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="My Project\Resources.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="My Project\Settings.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Program.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Program.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Form1.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Form1.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="My Project\Application.myapp" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="My Project\Settings.settings" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Resources\tera.jpg" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Resources\tera.jpg としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="favicon.ico" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\favicon.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="stone.ico" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\stone.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="FontDetail.resx" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\FontDetail.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Form1.resx" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Form1.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="Jimaku.resx" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\Jimaku.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="MainForm.resx" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\MainForm.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="My Project\Resources.resx" Description="ファイルは正常に C:\Users\lean\Desktop\[DEVELOPMENT]\Projects\GalaxyWarsCounter\Backup1\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="GalaxyWarCounter.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="GalaxyWarCounter" Source="GalaxyWarCounter.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MDXSample.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="MDXSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GalaxyWarCounter" Source="GalaxyWarCounter.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

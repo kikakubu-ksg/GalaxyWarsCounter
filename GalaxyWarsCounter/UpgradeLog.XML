@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MDXSample">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\lean\Desktop\[tmp]\Keyboard\MDXSample.sln">
+</Property><Property Name="Date" Value="2011年5月14日">
+</Property><Property Name="Time" Value="19:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MDXSample.sln" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\MDXSample.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="MDXSample.vbproj" Description="プロジェクト ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\MDXSample.vbproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="MainSample.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\MainSample.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="MainForm.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\MainForm.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="MainForm.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\MainForm.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="My Project\AssemblyInfo.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\My Project\AssemblyInfo.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="My Project\Application.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\My Project\Application.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="My Project\Resources.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\My Project\Resources.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="My Project\Settings.Designer.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\My Project\Settings.Designer.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="Program.vb" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\Program.vb としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="My Project\Application.myapp" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\My Project\Application.myapp としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="My Project\Settings.settings" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\My Project\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="著作権について.txt" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\著作権について.txt としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="MainForm.resx" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\MainForm.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="My Project\Resources.resx" Description="ファイルは正常に C:\Users\lean\Desktop\[tmp]\Keyboard\Backup\My Project\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="MDXSample.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="MDXSample" Source="MDXSample.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MDXSample.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="MDXSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MDXSample" Source="MDXSample.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

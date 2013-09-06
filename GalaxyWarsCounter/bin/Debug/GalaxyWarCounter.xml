@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GalaxyWarCounter
+</name>
+</assembly>
+<members>
+<member name="M:Osashimi.MainForm.#ctor">
+	<summary>
+ コンストラクタ
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Osashimi.MainForm">
+	<summary>
+ メインフォーム
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Osashimi.My.Resources.Resources.ResourceManager">
+	<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member><member name="P:Osashimi.My.Resources.Resources.Culture">
+	<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member><member name="T:Osashimi.My.Resources.Resources">
+	<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member><member name="M:Osashimi.Osashimi.Program.Main">
+	<summary>
+ アプリケーションのメイン エントリ ポイントです。
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Osashimi.Osashimi.Program">
+	<summary>
+ アプリケーション開始クラス
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Osashimi.Osashimi.MainSample._form">
+	<summary>
+ メインフォーム
+ </summary>
+</member><member name="F:Osashimi.Osashimi.MainSample._keyboradDevice">
+	<summary>
+ キーボードデバイス
+ </summary>
+</member><member name="M:Osashimi.Osashimi.MainSample.InitializeApplication(Osashimi.MainForm)">
+	<summary>
+ アプリケーションの初期化
+ </summary>
+	<param name="topLevelForm">トップレベルウインドウ</param>
+	<returns>全ての初期化がＯＫなら true, ひとつでも失敗したら false を返すようにする</returns>
+	<remarks>
+ false を返した場合は、自動的にアプリケーションが終了するようになっている
+ </remarks>
+</member><member name="M:Osashimi.Osashimi.MainSample.MainLoop">
+	<summary>
+ メインループ処理
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Osashimi.Osashimi.MainSample.Dispose">
+	<summary>
+ リソースの破棄をするために呼ばれる
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Osashimi.Osashimi.MainSample">
+	<summary>
+ メインサンプルクラス
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
